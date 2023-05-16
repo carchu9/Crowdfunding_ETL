@@ -8,6 +8,8 @@ ETL_Mini_Project_Cchu_DRodgers_AMcClain_RLeal.ipynb
 ## Resource files (exports and imports) are located here:
 
 /Resources/
+contacts.csv is from Option 1: Using Pandas
+contacts2.csv is from Option 2: Using Regex
 
 ## SQL Schema and ERD are located here:
 
